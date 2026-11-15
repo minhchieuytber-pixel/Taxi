@@ -1,0 +1,6 @@
+{
+  "name": "Taxi Hà Nội 3D - Hành Trình Vô Lăng",
+  "description": "Game mô phỏng lái xe taxi 3D thế giới mở tại Hà Nội, TP.HCM và Đà Nẵng với hệ thống nhận cuốc qua điện thoại ảo, CSGT tuần tra, thời tiết động và gara nâng cấp xe chi tiết.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
